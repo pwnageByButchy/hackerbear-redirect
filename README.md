@@ -26,9 +26,9 @@ Verified against GitHub's Pages documentation on 2026-11-07.
 | AAAA | @ | 2606:50c0:8001::153 |
 | AAAA | @ | 2606:50c0:8002::153 |
 | AAAA | @ | 2606:50c0:8003::153 |
-| CNAME | www | GITHUB-ACCOUNT.github.io |
+| CNAME | www | pwnagebybutchy.github.io |
 
-Replace GITHUB-ACCOUNT with the GitHub user or organisation name that owns the repo.
+The CNAME target is the GitHub account that owns the repo. Update it if the repo is transferred to an organisation.
 
 ## Check
 
